@@ -1,4 +1,7 @@
 # Fullstack Track
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## Prerequisites
 
@@ -15,3 +18,22 @@ View the program schedule [here](https://github.com/developer-program/fullstack-
 Please note that the schedule may change.
 
 
+
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://jsstrn.me/"><img src="https://avatars2.githubusercontent.com/u/1199611?v=4" width="100px;" alt=""/><br /><sub><b>Jesstern Rays</b></sub></a><br /><a href="https://github.com/developer-program/fullstack-track/commits?author=jsstrn" title="Documentation">📖</a> <a href="#content-jsstrn" title="Content">🖋</a> <a href="#example-jsstrn" title="Examples">💡</a> <a href="#ideas-jsstrn" title="Ideas, Planning, & Feedback">🤔</a> <a href="#tutorial-jsstrn" title="Tutorials">✅</a> <a href="#talk-jsstrn" title="Talks">📢</a> <a href="https://github.com/developer-program/fullstack-track/commits?author=jsstrn" title="Tests">⚠️</a> <a href="https://github.com/developer-program/fullstack-track/commits?author=jsstrn" title="Code">💻</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-enable -->
+<!-- prettier-ignore-end -->
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
