@@ -8,7 +8,7 @@ You should be able to build a basic web page in HTML and style your page with CS
 
 ## Program schedule 
 
-This 6-week program will start on 30 March 2020 and end on 8 April 2020.
+This 6-week program will start on 30 March 2020 and end on 8 May 2020.
 
 View the program schedule [here](https://github.com/developer-program/fullstack-track/projects/1). 
 
